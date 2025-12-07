@@ -4,7 +4,7 @@
 
 ---
 
-### 🧑‍💻 About Me  
+## 🧑‍💻 About Me  
 I’m a highly motivated Computer Science Engineering student with a strong passion for data, analytics, and AI-driven solutions. I enjoy transforming raw data into meaningful insights and building intelligent applications that create real-world impact.  
 
 My journey toward becoming a **Data Scientist** is fueled by curiosity and a desire to explore how data influences decisions, enhances efficiency, and powers modern technology. With hands-on experience in Python, SQL, Power BI, EDA, and machine learning, I love working across the entire data lifecycle—cleaning, analyzing, visualizing, and deploying models.  
@@ -13,7 +13,7 @@ I constantly challenge myself through projects, internships, and certifications 
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <a href="https://linkedin.com/in/tharunpranavt">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45px">
 </a>
