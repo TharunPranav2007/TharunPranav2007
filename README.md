@@ -5,11 +5,11 @@
 ---
 
 ### 🧑‍💻 About Me  
-I’m a highly motivated Computer Science Engineering student with a deep passion for data, analytics, and AI-driven problem-solving. I love uncovering patterns, transforming raw datasets into meaningful insights, and building intelligent applications that create real-world impact.  
+I’m a highly motivated Computer Science Engineering student with a strong passion for data, analytics, and AI-driven solutions. I enjoy transforming raw data into meaningful insights and building intelligent applications that create real-world impact.  
 
-My journey toward becoming a **Data Scientist** is fueled by curiosity and a desire to understand how data influences decisions, enhances efficiency, and powers intelligent systems. With hands-on experience in Python, SQL, Power BI, EDA, and machine learning, I enjoy exploring complete data workflows—from preprocessing and analysis to visualization and model deployment.  
+My journey toward becoming a **Data Scientist** is fueled by curiosity and a desire to explore how data influences decisions, enhances efficiency, and powers modern technology. With hands-on experience in Python, SQL, Power BI, EDA, and machine learning, I love working across the entire data lifecycle—cleaning, analyzing, visualizing, and deploying models.  
 
-I constantly challenge myself through projects, internships, and certifications to strengthen both my technical expertise and analytical mindset. My long-term goal is to create scalable, data-driven solutions that help organizations innovate, make smarter decisions, and unlock the true potential of their data.  
+I constantly challenge myself through projects, internships, and certifications to strengthen my technical expertise and analytical mindset. I aspire to build scalable, data-driven systems that help organizations innovate and unlock deeper insights from their data.  
 
 ---
 
@@ -23,16 +23,16 @@ I constantly challenge myself through projects, internships, and certifications 
 ### 🛠️ Technologies I Work With
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="50px" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50px" />
-  <img src="https://skillicons.dev/icons?i=powerbi" width="50px" />
-  <img src="https://skillicons.dev/icons?i=html" width="50px" />
-  <img src="https://skillicons.dev/icons?i=css" width="50px" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50px" />
-  <img src="https://skillicons.dev/icons?i=streamlit" width="50px" />
-  <img src="https://skillicons.dev/icons?i=git" width="50px" />
-  <img src="https://skillicons.dev/icons?i=github" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px"/>
 </p>
 
 ---
